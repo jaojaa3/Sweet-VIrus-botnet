@@ -1,12 +1,13 @@
 {
-  "name": "INFINITY_HACKS_BOTNET",
+  "name": "Sweet_Virus_HACKS_BOTNET",
   "version": "1.0.0",
-  "description": "INFINITY_HACKS_BOTNET - Remote Android Managment Suite",
+  "description": "Sweet_Virus_BOTNET - Remote Android Managment Suite",
   "main": "index.js",
   "scripts": {
+    "start": "node server/index.js",
     "test": "node index.js"
   },
-  "author": "INFINITYHACKS",
+  "author": "Sweet_VIrus",
   "license": "INFINITY",
   "dependencies": {
     "body-parser": "^1.19.0",
