@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/ExtremeHacking/infinityhacks-botnet/blob/master/assets/webpublic/logo.png" height="60"><br>
+<img src="Sweet-VIrus Hacks" height="80"><br>
 A cloud based remote android managment suite, powered by NodeJS
 </p>
 
@@ -66,15 +66,13 @@ A cloud based remote android managment suite, powered by NodeJS
     
 It's recommended to run botnet behind a reverse proxy such as [NGINX](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/)
 
-## Watch Practical Video
-https://www.youtube.com/watch?v=Q8tej2ey33c
 
 ## Disclaimer
-<b>Infinityhacks Botnet Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
-Infinityhacks Botnet is built for both Educational and Internal use ONLY.</b>
+<b>We Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
+This Botnet is built for both Educational and Internal use ONLY.</b>
 
 <br>
-<p align="center">Made By <a href="//infinityhacks.net">Prashant Asoliya</a></p>     
-<p align="center" style="font-size: 8px">v1.1.0</p>
+<p align="center">Made By <a href="//google.com">Sweet-VIrus</a></p>     
+<p align="center" style="font-size: 12px">v1.1.0</p>
 
 Inspired by L3MON (https://github.com/D3VL/L3MON)
